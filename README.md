@@ -1,3 +1,6 @@
+Maintained by Subhanshu Pratap Singh
+
+
 # 📝 Notes Management App (React + Vite)
 
 A clean, modern, and fully functional **Notes Management Application** built using **React JS** and **Vite**.  
