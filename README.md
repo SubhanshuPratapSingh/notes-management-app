@@ -11,7 +11,7 @@ This project was developed as part of a **React JS internship assessment**, with
 ## 🌟 Preview
 
 🚀 **Live Application:**  
-🔗 https://notes-management-app-t3a2.vercel.app/
+🔗 https://notes-management-app-pi.vercel.app/
 
 ---
 
@@ -87,7 +87,7 @@ Installation
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/notes-management-app.git
+https://github.com/SubhanshuPratapSingh/notes-management-app.git
 cd notes-management-app
 Install dependencies
 
